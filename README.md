@@ -1,2 +1,0 @@
-# Nyx
-Webpage for Nyx.
