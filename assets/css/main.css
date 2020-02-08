@@ -12,6 +12,7 @@
 		font-size: 100%;
 		font: inherit;
 		vertical-align: baseline;
+		color: #bebebe;
 	}
 
 	article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
@@ -2780,6 +2781,7 @@
 
 	table.alt tbody tr td {
 		border-color: rgba(255, 255, 255, 0.15);
+		font-size: 150%;
 	}
 
 /* Wrapper */
@@ -3233,6 +3235,7 @@
 
 			.wrapper.style2 table th {
 				color: #ffffff;
+				font-size: 130%;
 			}
 
 			.wrapper.style2 table thead {
